@@ -36,3 +36,4 @@ python312/
 dist/
 innosetup/
 .DS_Store
+*.code-workspace
